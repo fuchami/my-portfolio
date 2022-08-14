@@ -27,6 +27,6 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./public
           publish_branch: main  # deploying branch
-          cname: academic-pages-demo.lakemper.eu
+          cname: fuchami.com
           allow_empty_commit: true
           external_repository: fuchami/fuchami.github.io
