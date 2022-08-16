@@ -19,10 +19,11 @@ role: |
 bio: Machine Learning Engineer. Interested in deep learning, recommendation systems, search systems
 
 # Interests to show in About widget
-interests:
-  - Machine Learning
-  - Recommendation System
-  - Search Engine
+# interests:
+#   - Machine Learning
+#   - Recommendation System
+#   - Search Engine
+
 
 # Education to show in About widget
 # education:
@@ -42,12 +43,15 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/__fuchami__
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:fuchami23@icloud.com
   - icon: github
     icon_pack: fab
     link: https://github.com/fuchami
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/__fuchami__
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -63,7 +67,18 @@ email: ''
 highlight_name: true
 ---
 
-機械学習エンジニアです。
-機械学習を活用したサービスのUX改善や売上改善に興味があります。普段は推薦システムや検索改善に従事しています。
+1995年宮崎生まれ。機械学習エンジニア。
+
+機械学習を活用したサービス改善や事業貢献のお仕事に興味があります。現在は推薦システムや検索システムのアルゴリズム/UXを改善する仕事をしています。
+
+中学生の頃にHSPに触れ、プログラミングを始めました。
+大学入学後はニューラルネットワークの分野に興味を持ち、深層学習による映像解析の研究を行っていました。
+
+2020年に新卒で合同会社DMM.comに入社し、機械学習エンジニアとして事業改善に取り組んでいます。
+
+### Interests
+- Machine Learning
+- Recommendation System
+- Search Engine
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
