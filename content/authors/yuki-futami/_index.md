@@ -7,8 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: |
-  Machine Learning Engineer <br>
-  / Data Scientist
+  Machine Learning Engineer
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -79,6 +78,7 @@ highlight_name: true
 ### Interests
 - Machine Learning
 - Recommendation System
-- Search Engine
+- Learning To Rank
+- Computer Vision
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

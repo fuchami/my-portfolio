@@ -3,7 +3,7 @@ widget: featurette
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Skill
+title: Skills
 weight: 30
 
 # Showcase personal skills or business features.
@@ -14,7 +14,7 @@ feature:
     icon_pack: fab
     name: Python
     description: |
-        Tensorflow, Pyspark, Scikit-learn etc..
+        Tensorflow, Pyspark, Scikit-learn, LightGBM etc..
   - icon: database
     icon_pack: fas
     name: SQL
@@ -24,6 +24,6 @@ feature:
     icon_pack: fas
     name: Others
     description: |
-        AWS, k8s, CircleCI, git, etc...
+        AWS, Docker, k8s, Git/GitHub etc...
 
 ---
