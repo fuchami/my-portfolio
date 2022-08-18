@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle: 経歴・学歴
+# subtitle: 経歴・学歴
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -30,13 +30,14 @@ experience:
     description: |2-
         機械学習エンジニアとして、推薦システムや検索システムの改善に従事
         
-  - title: 機械学習エンジニア
+  - title: 機械学習エンジニア (Side job)
     company: メタシステム研究所
     company_url: 'https://www.metasyslab.co.jp/'
     date_start: '2022-01-01'
     date_end: ''
     description: |
         スマート漁業事業として、海況データを利用した漁場推定アルゴリズムの開発に従事
+
   - title: 鹿児島大学大学院 理工学研究科 情報生体システム工学専攻 
     company: 渡邊研究室
     company_url: 'https://www.ibe.kagoshima-u.ac.jp/~fics/'
@@ -45,6 +46,7 @@ experience:
     description: |
         深層学習を用いた映像解析に関する研究
 
+        受賞
         - 鹿児島大学工学部情報生体システム工学科 2019年度修士論文最優秀研究賞 [link](https://www.ibe.kagoshima-u.ac.jp/~fics/members/old_members.html#futami_yuuki)
 
   - title: エンジニア (インターンアルバイト)
@@ -70,7 +72,8 @@ experience:
     description: |
         深層学習を用いた映像解析に関する研究
 
-        - 鹿児島大学工学部情報生体システム工学科 卒業論文最優秀発表賞 [link](https://www.ibe.kagoshima-u.ac.jp/~fics/members/old_members.html#futami_yuuki)
+        受賞
+        - 鹿児島大学工学部情報生体システム工学科 2017年度卒業論文最優秀発表賞 [link](https://www.ibe.kagoshima-u.ac.jp/~fics/members/old_members.html#futami_yuuki)
         - 鹿児島大学工学部 稲盛学生賞
 
 design:

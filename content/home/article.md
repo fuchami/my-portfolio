@@ -1,6 +1,6 @@
 ---
 title: Article
-subtitle: "書いた記事など"
+# subtitle: ""
 # summary: 
 weight: 20
 type: "widget_page"
