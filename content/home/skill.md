@@ -14,7 +14,8 @@ feature:
     icon_pack: fab
     name: Python
     description: |
-        Tensorflow, Pyspark, Scikit-learn, LightGBM etc..
+        Tensorflow, Pyspark, Scikit-learn, 
+        <br>LightGBM etc..
   - icon: database
     icon_pack: fas
     name: SQL
@@ -24,6 +25,7 @@ feature:
     icon_pack: fas
     name: Others
     description: |
-        AWS, Docker, k8s, Git/GitHub etc...
+        AWS, Docker, kubernetes,
+        <br>Git/GitHub etc...
 
 ---

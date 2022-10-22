@@ -28,8 +28,17 @@ experience:
     date_start: '2020-04-01'
     date_end: ''
     description: |2-
-        機械学習エンジニアとして、推薦システムや検索システムの改善に従事
-        
+        機械学習エンジニアとして、推薦システムや検索システムの改善に従事。
+        <br><br>
+        - 2020/04~2022/07
+          - 3ヶ月間の新卒技術研修にて幅広く技術を習得 ([DMM.inside](https://inside.dmm.com/entry/2020/04/28/engineer-training-2020))
+        - 2021/08~2022/08
+          - 推薦システム・検索システムのアルゴリズム改善に従事
+          - データ分析に基づくアルゴリズム改善施策の提案、実装・デプロイ、A/Bテスト・効果測定を実施
+        - 2022/09~
+          - レコメンドチームのチームリーダーに就任
+          - メンバーのマネジメントを行いながらも、プレーヤーとしてレコメンドシステム改善に取り組む
+
   - title: 機械学習エンジニア (Side job)
     company: メタシステム研究所
     company_url: 'https://www.metasyslab.co.jp/'
@@ -55,7 +64,7 @@ experience:
     date_start: '2018-04-01'
     date_end: '2019-10-31'
     description: |
-      企業向けWebアプリの開発や機械学習用データのWebスクレイピングなど
+      企業向けWebアプリの開発や機械学習用データのWebスクレイピングに従事
   - title: R&Dエンジニア (短期インターン)
     company: サインポスト株式会社
     company_url: 'https://signpost.co.jp/'
