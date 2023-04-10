@@ -53,7 +53,7 @@ experience:
     date_start: '2018-04-01'
     date_end: '2020-03-31'
     description: |
-        深層学習を用いた映像解析に関する研究
+        深層学習を用いた映像解析に関する研究に取り組む
 
         受賞
         - 鹿児島大学工学部情報生体システム工学科 2019年度修士論文最優秀研究賞 [link](https://www.ibe.kagoshima-u.ac.jp/~fics/members/old_members.html#futami_yuuki)
@@ -71,7 +71,7 @@ experience:
     date_start: '2018-12-01'
     date_end: '2019-01-31'
     description: |
-      商品画像認識おけるデータの水増し手法の実装と検証
+      商品画像認識おけるデータの水増し手法の実装と検証に取り組む
 
   - title: 鹿児島大学 工学部情報生体システム工学科
     company: 渡邊研究室
@@ -79,7 +79,7 @@ experience:
     date_start: '2014-04-01'
     date_end: '2018-03-31'
     description: |
-        深層学習を用いた映像解析に関する研究
+        深層学習を用いた映像解析に関する研究に取り組む
 
         受賞
         - 鹿児島大学工学部情報生体システム工学科 2017年度卒業論文最優秀発表賞 [link](https://www.ibe.kagoshima-u.ac.jp/~fics/members/old_members.html#futami_yuuki)
