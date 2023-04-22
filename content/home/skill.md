@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Skills
-weight: 30
+weight: 40
 
 # Showcase personal skills or business features.
 # Add/remove as many `feature` blocks below as you like.

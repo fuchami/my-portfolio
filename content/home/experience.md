@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Experience
 # subtitle: 経歴・学歴
@@ -36,10 +36,9 @@ experience:
           - 推薦システム・検索システムのアルゴリズム改善に従事
           - データ分析に基づくアルゴリズム改善施策の提案、実装・デプロイ、A/Bテスト・効果測定を実施
         - 2022/09~
-          - レコメンドチームのチームリーダーに就任
-          - メンバーのマネジメントを行いながらも、プレーヤーとして推薦・検索システム改善に従事
+          - レコメンドチームのチームリーダーとして、メンバーのマネジメントを行いながらも、プレーヤーとして推薦・検索システム改善に従事
 
-  - title: 機械学習エンジニア (Side job)
+  - title: 機械学習エンジニア (副業)
     company: メタシステム研究所
     company_url: 'https://www.metasyslab.co.jp/'
     date_start: '2022-01-01'
