@@ -23,7 +23,6 @@ bio: Machine Learning Engineer. Interested in deep learning, recommendation syst
 #   - Recommendation System
 #   - Search Engine
 
-
 # Education to show in About widget
 # education:
 #   courses:
@@ -60,22 +59,24 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-1995年宮崎生まれ。機械学習エンジニア。
+1995年宮崎生まれ。ML/MLOpsエンジニア。
 
-機械学習を活用したサービス改善や事業貢献のお仕事に興味があります。現在は推薦システムや検索システムのアルゴリズム/UXを改善する仕事をしています。
+機械学習を活用したサービス改善や事業貢献のお仕事に興味があります。現在は検索システムのUXを改善する仕事をしています。
 
 中学生の頃にHSPに触れ、プログラミングを始めました。
 大学入学後はニューラルネットワークの分野に興味を持ち、深層学習による画像のノイズ除去や映像解析に関する研究を行っていました。
 
-2020年に新卒で合同会社DMM.comに入社し、機械学習エンジニアとして事業改善に取り組んでいます。
+2020年に新卒で合同会社DMM.comに入社し、MLエンジニアとして事業改善に取り組んでいました。
+現在はLINEヤフー株式会社にて、ML/MLOpsエンジニアとして検索意図判定システムの開発・運用に従事しています。
 
 ### Interests
+
 - Machine Learning
 - Recommendation System
 - Learning To Rank

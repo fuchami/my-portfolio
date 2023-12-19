@@ -1,6 +1,6 @@
 ---
 widget: featurette
-headless: true  # This file represents a page section.
+headless: true # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Skills
@@ -14,18 +14,17 @@ feature:
     icon_pack: fab
     name: Python
     description: |
-        Tensorflow, Pyspark, Scikit-learn, 
-        <br>LightGBM etc..
+      Tensorflow, Pyspark, Scikit-learn, 
+      <br>LightGBM etc..
   - icon: database
     icon_pack: fas
-    name: SQL
+    name: BigData
     description: |
-        Spark, Hive, Presto
+      Spark, Hive, Presto, Trino, Hive
   - icon: terminal
     icon_pack: fas
     name: Others
     description: |
-        AWS, Docker, kubernetes,
-        <br>Git/GitHub etc...
-
+      AWS, GCP, Docker, Kubernetes,
+      <br>Git/GitHub etc...
 ---
