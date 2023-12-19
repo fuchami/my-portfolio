@@ -10,21 +10,19 @@ weight: 40
 # Add/remove as many `feature` blocks below as you like.
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: python
-    icon_pack: fab
-    name: Python
+  - icon: code
+    icon_pack: fas
+    name: Programming Language
     description: |
-      Tensorflow, Pyspark, Scikit-learn, 
-      <br>LightGBM etc..
+      python, Java, Go, Scala
   - icon: database
     icon_pack: fas
     name: BigData
     description: |
-      Spark, Hive, Presto, Trino, Hive
+      Hive, Spark, Trino, BigQuery
   - icon: terminal
     icon_pack: fas
     name: Others
     description: |
-      AWS, GCP, Docker, Kubernetes,
-      <br>Git/GitHub etc...
+      AWS, GCP, Docker, Kubernetes
 ---
